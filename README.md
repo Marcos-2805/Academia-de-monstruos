@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Atlas Dev Kit
 
 Kit de desarrollo personal creado durante el Máster Full Stack.
@@ -26,3 +27,6 @@ Kit de desarrollo personal creado durante el Máster Full Stack.
 
 ### v4.0
 - Integración con IA
+=======
+# Atlas-Dev-Kit
+>>>>>>> 4f036275fae5c347d43d4e87239d244b652c6d9a
