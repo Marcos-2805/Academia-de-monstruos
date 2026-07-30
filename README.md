@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Atlas Dev Kit
 
 Kit de desarrollo personal creado durante el Máster Full Stack.
